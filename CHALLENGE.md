@@ -1,0 +1,3 @@
+# Distância entre Pontos
+
+Esse é mais simples, a ideia é criar um programa que recebe N pontos (latitude e longitude) e retorna a distância entre eles, ou seja a distância do primeiro ponto para todos os outros pontos, do segundo ponto para todos os outros pontos...e assim por diante...
